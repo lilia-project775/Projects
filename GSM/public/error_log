@@ -1,0 +1,105 @@
+[28-Oct-2025 08:26:03 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\school\StudentDashboardController, because the name is already in use in /home/edulog/gsm.edu-log.com/app/Http/Controllers/school/SchoolDashboardController.php on line 8
+[28-Oct-2025 08:26:20 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\school\StudentDashboardController, because the name is already in use in /home/edulog/gsm.edu-log.com/app/Http/Controllers/school/SchoolDashboardController.php on line 8
+[28-Oct-2025 08:26:56 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\school\StudentDashboardController, because the name is already in use in /home/edulog/gsm.edu-log.com/app/Http/Controllers/school/SchoolDashboardController.php on line 8
+[28-Oct-2025 09:58:04 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/edulog/gsm.edu-log.com/app/Http/Middleware/RoleMiddleware.php on line 4
+[28-Oct-2025 09:58:24 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/edulog/gsm.edu-log.com/app/Http/Middleware/RoleMiddleware.php on line 4
+[28-Oct-2025 09:58:25 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/edulog/gsm.edu-log.com/app/Http/Middleware/RoleMiddleware.php on line 4
+[29-Oct-2025 08:28:35 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:28:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:28:37 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:28:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:28:38 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:28:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:28:39 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:28:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:28:40 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:28:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:08 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:08 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:09 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:10 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:11 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:13 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:14 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:14 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:15 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:15 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:16 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:17 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:23 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/public/vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[29-Oct-2025 08:29:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/public/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/public/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/public/index.php on line 28
+[03-Nov-2025 08:52:21 UTC] PHP Fatal error:  Cannot redeclare App\Models\ClassModel::school() in /home/edulog/gsm.edu-log.com/app/Models/ClassModel.php on line 43
+[03-Nov-2025 12:02:48 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\school\SectionPerformanceController, because the name is already in use in /home/edulog/gsm.edu-log.com/app/Http/Controllers/school/SchoolPanelPerformanceController.php on line 10
+[03-Nov-2025 12:03:46 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\school\SectionPerformanceController, because the name is already in use in /home/edulog/gsm.edu-log.com/app/Http/Controllers/school/SchoolPanelPerformanceController.php on line 10
+[03-Nov-2025 13:19:15 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\school\SchoolPanelPerformanceController::calculateSectionPerformance() in /home/edulog/gsm.edu-log.com/app/Http/Controllers/school/SchoolPanelPerformanceController.php on line 165
+[05-Nov-2025 14:34:35 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\School\StudentProfileController, because the name is already in use in /home/edulog/gsm.edu-log.com/app/Http/Controllers/student/StudentProfileController.php on line 15
+[05-Nov-2025 14:58:43 UTC] PHP Fatal error:  Trait "App\Http\Controllers\student\Illuminate\Support\Facades\Hash" not found in /home/edulog/gsm.edu-log.com/app/Http/Controllers/student/StudentProfileController.php on line 16
+[05-Nov-2025 14:59:10 UTC] PHP Fatal error:  Trait "App\Http\Controllers\student\Illuminate\Support\Facades\Hash" not found in /home/edulog/gsm.edu-log.com/app/Http/Controllers/student/StudentProfileController.php on line 16
+[05-Nov-2025 14:59:12 UTC] PHP Fatal error:  Trait "App\Http\Controllers\student\Illuminate\Support\Facades\Hash" not found in /home/edulog/gsm.edu-log.com/app/Http/Controllers/student/StudentProfileController.php on line 16
+[05-Nov-2025 14:59:16 UTC] PHP Fatal error:  Trait "App\Http\Controllers\student\Illuminate\Support\Facades\Hash" not found in /home/edulog/gsm.edu-log.com/app/Http/Controllers/student/StudentProfileController.php on line 16

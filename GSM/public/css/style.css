@@ -1,0 +1,12 @@
+.container label{
+       font-weight: 700;
+}
+
+.container form label {
+    font-weight: 700 !important;
+}
+ .custom-bg {
+  background-color: green !important;
+}
+
+   

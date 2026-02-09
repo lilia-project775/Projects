@@ -1,0 +1,6 @@
+[27-Oct-2025 14:23:20 UTC] PHP Warning:  require(/home/edulog/gsm.edu-log.com/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/edulog/gsm.edu-log.com/index.php on line 13
+[27-Oct-2025 14:23:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/edulog/gsm.edu-log.com/../vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/edulog/gsm.edu-log.com/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edulog/gsm.edu-log.com/index.php on line 13
+[28-Oct-2025 08:15:53 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\school\SchoolController as SchoolController because the name is already in use in /home/edulog/gsm.edu-log.com/routes/web.php on line 14
